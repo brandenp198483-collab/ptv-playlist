@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABC.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="OTA Major Networks",ABC
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjkxODQ5OTNiLTRhNzctNDEwYi1hNDI1LWZlNzE3ZDE2YTM5NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkM2ZlZGVmZC1iMTIyLTExZjEtOTlkZS02ZWE0YzkwN2Q3YTYiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiI3MjhjOTk3ZS0xNWU4LTQ3ZjgtOTNkMC0yMmI4OTVjM2NlNDgiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiNzI4Yzk5N2UtMTVlOC00N2Y4LTkzZDAtMjJiODk1YzNjZTQ4IiwiZndWY0lEMkNvcHBhIjoiNzI4Yzk5N2UtMTVlOC00N2Y4LTkzZDAtMjJiODk1YzNjZTQ4IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI3MjhjOTk3ZS0xNWU4LTQ3ZjgtOTNkMC0yMmI4OTVjM2NlNDgiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzg5NDg5ODU2ODg5LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TnpJNFl6azVOMlV0TVRWbE9DMDBOMlk0TFRrelpEQXRNakppT0RrMVl6TmpaVFE0IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4OTU3NjI1NiwiaWF0IjoxNzg5NDg5ODU2LCJqdGkiOiJkOTYwMzJmOC0wYTk4LTQwYzEtYTkyNS1hMzM3YmY4M2QzZjkifQ.UX8olJGhbzglc7fuja3Ik6oG4Crf5IFRX1mwb8mCRgQ&masterJWTPassthrough=true
+https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
 #EXTINF:-1 tvg-id="CBS.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="OTA Major Networks",CBS
 http://stream.cammonitorplus.net/1783/index.m3u8
 #EXTINF:-1 tvg-id="NBC.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" group-title="OTA Major Networks",NBC
@@ -64,13 +64,13 @@ http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 tvg-id="BBC.America.branden" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America
 http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-id="BET.branden" tvg-logo="https://i.imgur.com/oafsrlo.png" group-title="Entertainment",BET
-http://206.212.244.63/19/index.m3u8
+https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 #EXTINF:-1 tvg-id="Bravo.branden" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="Entertainment",Bravo
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="CMT.branden" tvg-logo="https://i.imgur.com/S7DOpdY.png" group-title="Entertainment",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",Comedy Central
-http://86.87.15.10:8002/play/a02k/index.m3u8
+http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
 #EXTINF:-1 tvg-id="E.branden" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Entertainment",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.branden" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="Entertainment",Freeform
@@ -80,7 +80,7 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-id="FX.branden" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="Entertainment",FX
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/22522.ts
 #EXTINF:-1 tvg-id="FXX.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png" group-title="Entertainment",FXX
-http://23.237.104.106:8080/USA_FXX/index.m3u8
+http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1 tvg-id="FX.Movie.Channel.branden" tvg-logo="https://comteco.com.bo/img/upload/canales/svCJXa.png" group-title="Entertainment",FX Movie Channel
 http://40.160.24.52/FXM/index.m3u8
 #EXTINF:-1 tvg-id="FYI.branden" tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="Entertainment",FYI
@@ -126,13 +126,13 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="USA.Network.branden" group-title="Entertainment",USA Network
 http://40.160.24.55/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="VH1.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png" group-title="Entertainment",VH1
-http://rezofoot.tv/VH1/index.m3u8
+http://4.30.180.36:8420/vh1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Vice.TV.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png" group-title="Entertainment",Vice TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 tvg-id="We.TV.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/960px-We_TV_logo_2014.svg.png" group-title="Entertainment",We TV
 https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="A.And.E.Crime.360.branden" group-title="Entertainment",A&E Crime 360
-https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6000a5a9e767980007b497ca/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjNiOGViNTliLTNhOGYtNDJkNi04MDVjLTBmMzYyNzExMzBkMSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkZjM5OTdiZS1iMWVhLTExZjEtOGVjYi1lYWZiNTRjMTc0YWQiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiIyMzE1NTkxYS03Y2QxLTQ5MjUtOTI3Ni1iZTNjZmVlNGM3ZTMiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckFkU2Vzc2lvbkV2ZW50Ijp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJqaXRQYWNrIjoicmVwYWNrSml0LGRlY3J5cHQifSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMjMxNTU5MWEtN2NkMS00OTI1LTkyNzYtYmUzY2ZlZTRjN2UzIiwiZndWY0lEMkNvcHBhIjoiMjMxNTU5MWEtN2NkMS00OTI1LTkyNzYtYmUzY2ZlZTRjN2UzIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIyMzE1NTkxYS03Y2QxLTQ5MjUtOTI3Ni1iZTNjZmVlNGM3ZTMiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzg5NTc1Nzc1MDc1LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TWpNeE5UVTVNV0V0TjJOa01TMDBPVEkxTFRreU56WXRZbVV6WTJabFpUUmpOMlV6IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4OTY2MjE3NSwiaWF0IjoxNzg5NTc1Nzc1LCJqdGkiOiI1ZjRiZmMwNC0yNzc4LTQ3YmQtYjI2MC1jZDMzNTJhMmQxMTgifQ.3Tax-_trl8wvuc2ghKh8dFuJ_yVs6gVJEGIAxdCDDuQ&masterJWTPassthrough=true
 #EXTINF:-1 tvg-id="HBO.Comedy.branden" group-title="Premium Cable",HBO Comedy
 http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Showtime.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" group-title="Premium Cable",Showtime
@@ -158,7 +158,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-689fb8470a48
 #EXTINF:-1 tvg-id="C.SPAN.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/960px-C-SPAN_Logo_%282019%29.svg.png" group-title="News & Weather",C-SPAN
 http://40.160.24.52/C-SPAN_HD/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.branden" group-title="News & Weather",CNBC
-http://rezofoot.tv/CNBC/index.m3u8
+http://4.30.180.36:8420/cnbc/index.m3u8?token=test
 #EXTINF:-1 tvg-id="CNN.International.branden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="News & Weather",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="Fox.Business.Network.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="News & Weather",Fox Business Network
@@ -188,7 +188,7 @@ http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.Deportes.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Sports",ESPN Deportes
 http://40.160.24.58/ESPN_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.branden" tvg-logo="https://i.imgur.com/74gMaPK.png" group-title="Sports",Fox Sports 1
-https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.branden" tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="Sports",Fox Sports 2
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.branden" tvg-logo="https://i.imgur.com/gR7u8DM.png" group-title="Sports",Fox Soccer Plus
