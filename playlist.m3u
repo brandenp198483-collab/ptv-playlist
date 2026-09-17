@@ -248,7 +248,7 @@ https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-id="Sportsman.Channel.branden" tvg-logo="https://i.imgur.com/CXauv8M.png" group-title="Lifestyle & Documentary",Sportsman Channel
 http://40.160.24.55/Sportsman_Channel/index.m3u8
 #EXTINF:-1 tvg-id="Pursuit.Channel.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png" group-title="Lifestyle & Documentary",Pursuit Channel
-http://206.212.244.63/140/index.m3u8
+https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery.Turbo.branden" group-title="Lifestyle & Documentary",Discovery Turbo
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 #EXTINF:-1 tvg-id="Classic.Arts.Showcase.branden" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Public / Educational",Classic Arts Showcase
