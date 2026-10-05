@@ -104,7 +104,7 @@ http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:-1 tvg-id="MTV.Classic.branden" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="Entertainment",MTV Classic
 http://206.212.244.63/117/index.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Entertainment",National Geographic
-http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
+http://212.5.144.156:8080/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="Ovation.branden" tvg-logo="https://i.imgur.com/A3o9gvc.png" group-title="Entertainment",Ovation
 http://40.160.24.55/OVATION/index.m3u8
 #EXTINF:-1 tvg-id="Oxygen.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Entertainment",Oxygen
@@ -180,7 +180,7 @@ http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 tvg-id="CBS.Sports.Network.branden" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Sports",CBS Sports Network
 http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
-http://181.78.197.59:8000/play/a07z/index.m3u8
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 #EXTINF:-1 tvg-id="ESPNews.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png" group-title="Sports",ESPNews
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.branden" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPNU
@@ -214,7 +214,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u
 #EXTINF:-1 tvg-id="NESN.branden" group-title="Sports",NESN
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:-1 tvg-id="Disney.Channel.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Children & Family",Disney Channel
-http://88.212.15.19/live/test_disney/playlist.m3u8
+http://212.5.144.156/disney/index.m3u8
 #EXTINF:-1 tvg-id="Disney.Junior.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Children & Family",Disney Junior
 http://88.212.15.19/live/test_disney_junior/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney.XD.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Children & Family",Disney XD
@@ -273,3 +273,5 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiaw
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 #EXTINF:-1 tvg-id="CNBC.Europe.branden" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png" group-title="News Variants",CNBC Europe
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
+#EXTINF:-1 group-title="crime",Crime And Investigation
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
