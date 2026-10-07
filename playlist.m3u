@@ -117,7 +117,7 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TV.Land.branden" tvg-logo="https://i.imgur.com/VNNS4mF.png" group-title="Entertainment",TV Land
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
-#EXTINF:-1 tvg-id="USA.Network.branden" group-title="Entertainment",USA Network
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/0adem/epg4mychUSA.m3u8/main/epg.xml" group-title="Entertainment",USA Network
 http://190.197.41.183/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="VH1.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png" group-title="Entertainment",VH1
 http://4.30.180.36:8420/vh1/index.m3u8?token=test
