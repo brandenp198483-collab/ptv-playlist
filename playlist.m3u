@@ -231,3 +231,15 @@ http://212.5.144.156:8080/discovery/index.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951468/hls/master.m3u8?ads.xumo_channelId=99951468&ads.asnw=169843&ads.afid=444754633&ads.sfid=23912191&ads.csid=xumo_[PLATFORM]_nbculaworder_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=xumoplay&ads.xumo_contentId=4303&ads.xumo_contentName=NBCULawOrder&ads.xumo_providerId=4303&ads.xumo_providerName=NBCULawOrder&ads.channelId=99951468&ads._fw_ifa_type=[IFA_TYPE]
 #EXTINF:-1,AHC
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
+#EXTINF:-1,Bounce
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1,Destination America
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:-1,HLN
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:-1,HAUNT TV
+https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
+#EXTINF:-1,Law And Crime
+https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+#EXTINF:-1,Motor Trend
+https://amg00136-wbd-amg00136c57-tablo-us-7176.playouts.now.amagi.tv/playlist.m3u8
