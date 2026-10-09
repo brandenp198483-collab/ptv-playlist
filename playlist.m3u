@@ -223,3 +223,5 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 #EXTINF:-1,MovieSphere
 https://pb-wmei1j77c66s0.akamaized.net/MovieSphere.m3u8
+#EXTINF:-1,Discovery
+http://212.5.144.156:8080/discovery/index.m3u8
