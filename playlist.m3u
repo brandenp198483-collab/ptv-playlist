@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABC.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="OTA Major Networks",ABC
-https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
+https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="OTA Major Networks",CBS
 http://stream.cammonitorplus.net/1783/index.m3u8
 #EXTINF:-1 tvg-id="NBC.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" group-title="OTA Major Networks",NBC
