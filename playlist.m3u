@@ -215,7 +215,7 @@ http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Fts-philadelphia-a.svg?width=640",FOX 29 PHILLY
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/wiki/Special:Redirect/file/MovieSphere.png",MovieSphere
+#EXTINF:-1 tvg-logo="https://www.tvchannellists.com/w/Special:Redirect/file/MovieSphere.png",MovieSphere
 https://pb-wmei1j77c66s0.akamaized.net/MovieSphere.m3u8
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Magnolia_Network.svg?width=640",Magnolia Network
 http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8
