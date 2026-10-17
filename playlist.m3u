@@ -9,7 +9,7 @@ https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_ch
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCW.us" group-title="OTA Major Networks",The CW
 https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/PBS_logo_2019.svg" group-title="OTA Major Networks",PBS
+#EXTINF:-1 tvg-id="PBS.branden" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/PBS_logo.png" group-title="OTA Major Networks",PBS History
 https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="MyNetworkTV.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/mynetworktv.svg" group-title="OTA Major Networks",MyNetworkTV
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
