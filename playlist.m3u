@@ -195,8 +195,6 @@ https://create.lls.pbs.org/index.m3u8
 https://linktv.b-cdn.net/linktv.m3u8
 #EXTINF:-1 tvg-id="BYU.TV.branden" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/BYUtv%20logo.png" group-title="Public / Educational",BYU TV
 https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
-#EXTINF:-1 tvg-id="FOX.Tampa.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="Local News",FOX Tampa
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.Boston.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/960px-WBTS-LD_NBC_10_Boston_logo.png" group-title="Local News",NBC Boston
 https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
 #EXTINF:-1 tvg-id="FOX.Boston.branden" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Wfxt2019.svg?width=500⁠" group-title="Local News",FOX Boston
