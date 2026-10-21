@@ -47,6 +47,8 @@ http://23.237.104.106:8080/USA_CMT/index.m3u8
 http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
 #EXTINF:-1 tvg-id="E.us" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Entertainment",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png" group-title="Entertainment",Fuse
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-id="FX.us" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="Entertainment",FX
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/22522.ts
 #EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png" group-title="Entertainment",FXX
@@ -63,8 +65,6 @@ http://4.30.180.36:8420/lifetime/index.m3u8?token=test
 http://57.128.231.171:8080/227/index.m3u8
 #EXTINF:-1 tvg-id="MTV2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png" group-title="Entertainment",MTV2
 http://198.58.104.90:8989/mtv2/index.m3u8
-#EXTINF:-1 tvg-id="MTVClassic.us" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="Entertainment",MTV Classic
-http://206.212.244.63/117/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Entertainment",National Geographic
 http://212.5.144.156:8080/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" group-title="Entertainment",Paramount Network
