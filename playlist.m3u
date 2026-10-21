@@ -239,3 +239,5 @@ https://jmp2.uk/plu-62f4f414c2ba130007f8b24e.m3u8
 https://linear-888.frequency.stream/dist/vizio/888/hls/master/playlist.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIxNDkiLCJ3ZnBjaWQiOjQyODc5OTIyMTN9
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Food_Network_New_Logo.png" group-title="Cooking",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-live-us.png" group-title="music",MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
