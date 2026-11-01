@@ -80,7 +80,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="TVLand.us" tvg-logo="https://i.imgur.com/VNNS4mF.png" group-title="Entertainment",TV Land
 https://fl3.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-network-us.png" group-title="Entertainment",USA Network
-http://190.197.41.183/USA_NETWORK/index.m3u8
+https://thetvapp.to/tv/usa-network-live-stream/
 #EXTINF:-1 tvg-id="VH1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png" group-title="Entertainment",VH1
 http://4.30.180.36:8420/vh1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="VICETV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png" group-title="Entertainment",Vice TV
