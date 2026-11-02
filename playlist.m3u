@@ -31,7 +31,7 @@ https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="StoryTelevision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="OTA Digital Multicast",Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8
-#EXTINF:-1 tvg-id="TBD.branden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbd-us.png" group-title="OTA Digital Multicast",TBD
+#EXTINF:-1 tvg-id="TBD.branden" tvg-logo="https://iili.io/FxYNwOB.md.png" group-title="OTA Digital Multicast",ROAR
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-id="AMC.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/amc.png" group-title="Entertainment",AMC
 https://amc-amcpresents-1-us.tablo.wurl.tv/playlist.m3u8
