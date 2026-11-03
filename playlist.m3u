@@ -31,9 +31,9 @@ https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="StoryTelevision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="OTA Digital Multicast",Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8
-#EXTINF:-1 tvg-id="TBD.branden" tvg-logo="https://iili.io/FxYNwOB.md.png" group-title="OTA Digital Multicast",ROAR
+#EXTINF:-1 tvg-id="Roar.us" tvg-logo="https://iili.io/FxYNwOB.md.png" group-title="OTA Digital Multicast",ROAR
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
-#EXTINF:-1 tvg-id="AMC.branden" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/amc.png" group-title="Entertainment",AMC
+#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://brandenp198483-collab.github.io/branden-tv/logos/amc.png" group-title="Entertainment",AMC
 https://amc-amcpresents-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America
 http://23.239.31.26:8989/bbcamerica/index.m3u8
@@ -80,7 +80,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="TVLand.us" tvg-logo="https://i.imgur.com/VNNS4mF.png" group-title="Entertainment",TV Land
 http://40.160.24.55/TV_LAND/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-network-us.png" group-title="Entertainment",USA Network
-http://200.32.231.178/USA_NETWORK/index.m3u8
+http://40.160.24.55/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="VH1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png" group-title="Entertainment",VH1
 http://4.30.180.36:8420/vh1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="VICETV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png" group-title="Entertainment",Vice TV
