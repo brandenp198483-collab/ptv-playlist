@@ -24,7 +24,7 @@ https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60
 #EXTINF:-1 tvg-id="IONPlus.us" tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="OTA Digital Multicast",Ion Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="Laff.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="OTA Digital Multicast",Laff
-http://tvsen7.aynascope.net/laff/index.m3u8
+https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8
 #EXTINF:-1 tvg-id="Movies.us" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="OTA Digital Multicast",Movies!
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 #EXTINF:-1 tvg-id="Rewind.TV.branden" tvg-logo="https://i.imgur.com/OG0RC2e.png" group-title="OTA Digital Multicast",Rewind TV
