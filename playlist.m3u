@@ -100,7 +100,7 @@ http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="StarzKidsFamily.us" tvg-logo="https://i.imgur.com/eE9FzEP.png" group-title="Premium Cable",Starz Kids & Family
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/CNBC_2025.svg?width=640" group-title="News & Weather",CNBC
-http://4.30.180.36:8420/cnbc/index.m3u8?token=test
+https://www.newslive.com/business/cnbc-live-free.html
 #EXTINF:-1 tvg-id="CNN.International.branden" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="News & Weather",CNN International
 https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News & Weather",Fox News Channel
