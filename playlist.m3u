@@ -265,7 +265,7 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="https://epgshare01.online/epgshare01/epg_ripper_POWERNATION1.xml.gz" tvg-logo="https://i.imgur.com/jguTO8E.png" group-title="Auto",POWERNATION
 https://jmp2.uk/rok-ca25dfba8ba45a1bb277c8b0ca8f56c4.m3u8
-#EXTINF:-1 group-title="News",USA Today
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/USA_Today_logo_2012.png" group-title="News",USA Today
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 #EXTINF:-1 group-title="Local",Pasco County TV
 https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8
