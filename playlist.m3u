@@ -51,10 +51,6 @@ http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-id="Fuse.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png" group-title="Entertainment",Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1 tvg-id="FX.us" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="Entertainment",FX
-https://tvpass.org/live/FXEast/hd
-#EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png" group-title="Entertainment",FXX
-https://tvpass.org/live/FXXEast/hd
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" group-title="Entertainment",Hallmark Channel
 https://jmp2.uk/stvp-USBD270001633
 #EXTINF:-1 tvg-id="IFC.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Entertainment",IFC
@@ -81,8 +77,6 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TVLand.us" tvg-logo="https://i.imgur.com/VNNS4mF.png" group-title="Entertainment",TV Land
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-network-us.png" group-title="Entertainment",USA Network
-https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="VH1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png" group-title="Entertainment",VH1
 http://4.30.180.36:8420/vh1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="VICETV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png" group-title="Entertainment",Vice TV
@@ -281,8 +275,6 @@ https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 #EXTINF:-1,LIFETIME MOVIE NETWORK
 http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png",STARZ WEST
 http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Tcm.png" group-title="movies",TCM EAST
